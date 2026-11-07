@@ -1,2 +1,1 @@
-# Elastic-SIEM-Shuffle-SOAR---Incident-Response-automatizado
-He identificado una configuración crítica en Elastic SIEM y en este proyecto explico cómo integro Shuffle SOAR usando Docker para automatizar la detección y respuesta ante esta amenaza. El sistema comprueba periódicamente el estado del antivirus de Elastic Defend y la recupera automáticamente cuando detecta que ha sido desactivado.
+He adjuntado en este repositorio de GitHub una carpeta llamada "SIEM & Shuffle SOAR - Incident Response automatizado - Documentación", que contiene varios PDF con toda la documentación del proyecto, incluidas las explicaciones, la información técnica y las imágenes. Todo la información necesaria se encuentra ahí.
